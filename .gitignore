@@ -1,0 +1,5 @@
+*.pkl.gz
+.*swp
+*~
+*pyc
+.ipynb_checkpoints
